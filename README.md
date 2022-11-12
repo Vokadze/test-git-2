@@ -14,7 +14,7 @@
    45109c3 (HEAD -> master) init project
 
 6. git push [rep_link] [branch_name]
-   [rep_link] - ссылка не репозиторий
+   git remote -v - [rep_link] - ссылка не репозиторий
    [branch_name] - ветка
    
 7. git push origin master
@@ -28,4 +28,4 @@ feature/main-page
 feature/about-company
 
 9. git branch develop - создание ветки
-10. git 
+10. git checkout develop - переключение на другую ветку

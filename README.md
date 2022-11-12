@@ -32,3 +32,5 @@ feature/about-company
 10. Pull requests на GitHub - объединение веток на GitHub.
 
 11. git pull origin master - перемещаем все изменения на Github в master на master в vscode то есть в рабочий код master
+
+12. git branch -D develop - удаление ветки в vscode

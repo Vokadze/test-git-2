@@ -28,4 +28,7 @@ feature/main-page
 feature/about-company
 
 9. git branch develop - создание ветки
-10. git checkout develop - переключение на другую ветку
+
+10. Pull requests на GitHub - объединение веток на GitHub.
+
+11. git pull origin master - перемещаем все изменения на Github в master на master в vscode то есть в рабочий код master

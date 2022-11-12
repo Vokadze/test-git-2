@@ -28,4 +28,5 @@ feature/main-page
 feature/about-company
 
 9. git branch develop - создание ветки
+
 10. git checkout develop - переключение на другую ветку

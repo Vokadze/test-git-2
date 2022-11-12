@@ -19,3 +19,13 @@
    
 7. git push origin master
 8. git reset --hard - удаляет все сделанные изменения ОСТОРОЖНО!!!
+
+ВЕТКИ
+
+master
+develop
+feature/main-page
+feature/about-company
+
+9. git branch develop - создание ветки
+10. git 

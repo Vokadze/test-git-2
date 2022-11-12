@@ -34,3 +34,5 @@ feature/about-company
 11. git pull origin master - перемещаем все изменения на Github в master на master в vscode то есть в рабочий код master
 
 12. git branch -D develop - удаление ветки в vscode
+
+13. git merge feature/main-page - перемещение изменений сделанных в feature/main-page в master в vscode
